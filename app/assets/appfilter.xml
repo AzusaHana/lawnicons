@@ -50,7 +50,7 @@
   <item component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}" drawable="boc" name="BOC" />
   <item component="ComponentInfo{tw.com.bookwalker/jp.bookwalker.kreader.android.epub.startup.SplashActivity}" drawable="bw" name="BW" />
   <item component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.mc10086.cmcc.base.StartPageActivity}" drawable="china_mobile" name="China Mobile" />
-  <item component="ComponentInfo{com.kingpoint.gmcchh/com.kingpoint.gmcchh.activity.StartActivity}" drawable="china_mobile_gd" name="China Mobile GD" />
+  <item component="ComponentInfo{com.kingpoint.gmcchh/com.kingpoint.gmcchh.activity.StartActivity}" drawable="china_mobile" name="China Mobile GD" />
   <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" name="Chrome" />
   <item component="ComponentInfo{com.github.metacubex.clash.meta/com.github.kr328.clash.MainActivity}" drawable="clash_meta" name="Clash Meta" />
   <item component="ComponentInfo{com.heytap.market/com.heytap.market.activity.MainActivity}" drawable="coloros_app_market" name="ColorOS App Market" />
